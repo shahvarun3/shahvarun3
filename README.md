@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varun Narsana</h1>
+<h1 align="center">Hi 👋, I'm Varun Shah</h1>
 <h3 align="center">Hi! I'm a undergraduate Computer Science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahvarun3&label=Profile%20views&color=0e75b6&style=flat" alt="shahvarun3" /> </p>
